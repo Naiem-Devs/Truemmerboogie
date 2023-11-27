@@ -1,0 +1,190 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.Mobile_Menu{display: block !important;}
+/* Mobile Menu End___________ */
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+    .Mobile_Menu{display: block !important;}
+    #my-navigation{width: 100%;}
+/* Mobile Menu End___________ */
+ 
+/* _______Section title______ */
+.sec_title {}
+.sec_title p{}
+.sec_title h2{}
+/* _______Section title End______ */
+
+
+
+/*Header Section css Start ===========*/
+header{}
+.logo {width: 50px;}
+.logo img{width: 100%;}
+
+nav#mein_menu {}
+nav#mein_menu li{}
+nav#mein_menu li a{}
+nav#mein_menu {}
+/*Header Section css end ===========*/
+
+
+
+
+
+/*hero Section css Start ===========*/
+section.hero_section{}
+.hero_left{}
+/*hero Section css end ===========*/
+
+
+
+
+/*Service Section css Start ===========*/
+section.Service{}
+
+.sec_title.service{}
+
+.singel_service{}
+
+.service_content {}
+.service_content h5{}
+.service_content p{}
+
+.singel_logo {}
+.singel_logo img{}
+/*Service Section css end ===========*/
+
+
+
+
+/*Video Section css Start ===========*/
+section.Video{}
+
+.video_content {}
+.video_content h2{}
+.video_content p{}
+
+.play_btn {}
+.play_btn img{}
+/*Video Section css end ===========*/
+
+
+
+
+/*Experience Section css Start ===========*/
+section.Experience{}
+
+.Experience_right {}
+.Experience_right h2{}
+.Experience_right p{}
+.Experience_right span{}
+
+.ex_email {}
+.ex_email a{}
+/*Experience Section css end ===========*/
+
+
+
+
+/*Book_tab Section css Start ===========*/
+section.Book_tab{}
+/*Book_tab Section css end ===========*/
+
+
+
+
+/*TESTIMONIAL Section css Start ===========*/
+section.TESTIMONIAL{}
+
+.parson {}
+.parson li{}
+.parson li i{}
+
+.parson p{}
+
+.parson_title {}
+.parson_title img{}
+.parson_title h5{}
+.parson_title h5 span{}
+/*TESTIMONIAL Section css end ===========*/
+
+
+
+
+/*About Section css Start ===========*/
+section.About{}
+.sec_title.about_sec{}
+
+.author {}
+.author img{}
+
+.About_right {}
+.About_right h4{}
+.About_right p {}
+.About_right p a{}
+/*About Section css end ===========*/
+
+
+
+
+/*Book Section css Start ===========*/
+.Book_section{}
+.book_left {}
+
+.book_left img{}
+.book_right {}
+
+.book_right h1{}
+.book_right p{}
+.book_right span{}
+
+.book_email {}
+.book_email input{}
+.book_email a{}
+/*Book Section css end ===========*/
+
+
+
+/*Footer Section css Start ===========*/
+footer{}
+
+.footer_left {}
+.footer_left p{}
+
+.footer_mid {}
+.footer_mid ul li{}
+.footer_mid ul li a{}
+
+.footer_left {}
+.footer_left i{}
+/*Footer Section css end ===========*/
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+#my-navigation{width: 450px;}
+/* Mobile Menu End___________ */
+.container {width:450px}
+}
